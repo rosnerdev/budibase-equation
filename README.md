@@ -1,5 +1,8 @@
 # Budibase-equation
-This is a readme for your new Budibase plugin.
+Using this plugin you can display any equation you want with the LaTeX syntax for equations.
+
+![Example 1]('Screen Shot 2022-10-01 at 12.14.04.png')
+![Example 2]('Screen Shot 2022-10-01 at 12.14.09.png')
 
 # Description
 Display math equations using the LaTeX syntax in budibase.

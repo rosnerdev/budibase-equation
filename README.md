@@ -2,7 +2,7 @@
 This is a readme for your new Budibase plugin.
 
 # Description
-Display math equations using the LaTeX syntax in budibase
+Display math equations using the LaTeX syntax in budibase.
 
 Find out more about [Budibase](https://github.com/Budibase/budibase).
 

@@ -1,0 +1,17 @@
+{
+  "type": "component",
+  "metadata": {},
+  "schema": {
+    "name": "budibase-equation",
+    "friendlyName": "budibase-equation",
+    "description": "Display math equations using the LaTeX syntax in budibase",
+    "icon": "Text",
+    "settings": [
+      {
+        "type": "text",
+        "key": "math",
+        "label": "Math"
+      }
+    ]
+  }
+}

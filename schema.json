@@ -10,7 +10,8 @@
       {
         "type": "text",
         "key": "math",
-        "label": "Math"
+        "label": "Math",
+        "defaultValue": "x_1=\\frac{-b+\\sqrt{b^2-4ac}}{2a}"
       }
     ]
   }

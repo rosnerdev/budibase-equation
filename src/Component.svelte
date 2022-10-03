@@ -1,7 +1,7 @@
 <script>
   import { getContext } from "svelte"
   import katex from "katex";
-	export let math = "x_1=\\frac{-b+\\sqrt{b^2-4ac}}{2a}";
+	export let math;
 	export let displayMode = false;
 	
 	const options = {
